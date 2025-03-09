@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=SA_IMU Pin=MCU-8
+Added Pin To Net: NetName=SA_IMU Pin=MCU-50
+Added Room: Name=Sheet1

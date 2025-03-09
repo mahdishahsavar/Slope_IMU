@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=CX1-1
+Removed Pin From Net: NetName=M_X1 Pin=CX1-2
+Removed Pin From Net: NetName=GND Pin=CX2-1
+Removed Pin From Net: NetName=M_X2 Pin=CX2-2
+Removed Pin From Net: NetName=SWDIO Pin=PROG-2
+Removed Pin From Net: NetName=SWCLK Pin=PROG-3
+Added Pin To Net: NetName=M_X1 Pin=CX1-1
+Added Pin To Net: NetName=GND Pin=CX1-2
+Added Pin To Net: NetName=M_X2 Pin=CX2-1
+Added Pin To Net: NetName=GND Pin=CX2-2
+Added Pin To Net: NetName=SWCLK Pin=PROG-2
+Added Pin To Net: NetName=SWDIO Pin=PROG-3
+Added Room: Name=Sheet1

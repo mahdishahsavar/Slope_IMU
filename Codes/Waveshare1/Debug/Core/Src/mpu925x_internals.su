@@ -1,0 +1,6 @@
+../Core/Src/mpu925x_internals.c:34:9:__mpu925x_init	40	static
+../Core/Src/mpu925x_internals.c:71:9:__ak8963_init	40	static
+../Core/Src/mpu925x_internals.c:111:6:mpu925x_get_accelerometer_bias	48	static
+../Core/Src/mpu925x_internals.c:128:6:mpu925x_bus_write_preserve	48	static
+../Core/Src/mpu925x_internals.c:144:6:mpu925x_reset	40	static
+../Core/Src/mpu925x_internals.c:155:6:ak8963_reset	40	static

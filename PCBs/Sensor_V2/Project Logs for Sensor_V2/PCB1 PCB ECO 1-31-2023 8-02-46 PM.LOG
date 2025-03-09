@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=+3V3 Pin=IMU-1
+Removed Pin From Net: NetName=SCL3 Pin=IMU-4
+Removed Pin From Net: NetName=GND Pin=IMU-5
+Removed Pin From Net: NetName=SDA3 Pin=IMU-6
+Removed Pin From Net: NetName=SA_IMU Pin=IMU-7
+Removed Pin From Net: NetName=GND Pin=IMU-8
+Removed Pin From Net: NetName=INT 2 Pin=IMU-9
+Removed Pin From Net: NetName=GND Pin=IMU-10
+Removed Pin From Net: NetName=INT 1 Pin=IMU-11
+Removed Pin From Net: NetName=GND Pin=IMU-12
+Removed Pin From Net: NetName=GND Pin=IMU-13
+Removed Pin From Net: NetName=+3V3 Pin=IMU-14
+Removed Pin From Net: NetName=+3V3 Pin=IMU-15
+Removed Pin From Net: NetName=GND Pin=IMU-16
+Removed Pin From Net: NetName=NRST Pin=PROG-1
+Removed Pin From Net: NetName=SWCLK Pin=PROG-2
+Removed Pin From Net: NetName=SWDIO Pin=PROG-3
+Removed Pin From Net: NetName=GND Pin=PROG-4
+Removed Pin From Net: NetName=SA_IMU Pin=RIMU-1
+Removed Pin From Net: NetName=GND Pin=RIMU-2
+Removed Pin From Net: NetName=SCL3 Pin=SC3-1
+Removed Pin From Net: NetName=+3V3 Pin=SC3-2
+Removed Pin From Net: NetName=SDA3 Pin=SD3-1
+Removed Pin From Net: NetName=+3V3 Pin=SD3-2
+Removed Pin From Net: NetName=+3V3 Pin=UART-1
+Removed Pin From Net: NetName=GND Pin=UART-2
+Removed Pin From Net: NetName=RX Pin=UART-3
+Removed Pin From Net: NetName=TX Pin=UART-4
+Removed Pin From Net: NetName=INT 3 Pin=UART-5
+Removed Member From Class: ClassName=Sheet1 Member=IMU
+Removed Member From Class: ClassName=Sheet1 Member=RIMU
+Removed Member From Class: ClassName=Sheet1 Member=SC3
+Removed Member From Class: ClassName=Sheet1 Member=SD3
+Removed Member From Class: ClassName=Sheet1 Member=UART
+Change Component Comment : Designator=C_V1 Old Comment=2.2uf New Comment=4.7uf
+Added Component: Designator=HG(PCBComponent_1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PROG(HDR1X5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=INT 1 Pin=HG-2
+Added Pin To Net: NetName=+3V3 Pin=HG-3
+Added Pin To Net: NetName=INT 2 Pin=HG-4
+Added Pin To Net: NetName=SCL3 Pin=HG-5
+Added Pin To Net: NetName=SDA3 Pin=HG-7
+Added Pin To Net: NetName=NRST Pin=PROG-1
+Added Pin To Net: NetName=SWCLK Pin=PROG-2
+Added Pin To Net: NetName=SWDIO Pin=PROG-3
+Added Pin To Net: NetName=+3V3 Pin=PROG-4
+Added Pin To Net: NetName=GND Pin=PROG-5
+Added Member To Class: ClassName=Sheet1 Member=Component HG Header 4X2
+Added Room: Name=Sheet1

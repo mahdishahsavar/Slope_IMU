@@ -1,0 +1,14 @@
+../Core/Src/mpu925x_settings.c:38:6:mpu925x_set_sample_rate_divider	32	static
+../Core/Src/mpu925x_settings.c:49:6:mpu925x_set_clock_source	32	static
+../Core/Src/mpu925x_settings.c:75:6:mpu925x_set_accelerometer_scale	40	static
+../Core/Src/mpu925x_settings.c:93:6:mpu925x_set_accelerometer_dlpf	40	static
+../Core/Src/mpu925x_settings.c:112:6:mpu925x_accelerometer_offset_cancellation	24	static
+../Core/Src/mpu925x_settings.c:126:6:mpu925x_get_accelerometer_offset	64	static
+../Core/Src/mpu925x_settings.c:182:6:mpu925x_set_accelerometer_offset	40	static
+../Core/Src/mpu925x_settings.c:203:6:mpu925x_set_gyroscope_scale	32	static
+../Core/Src/mpu925x_settings.c:235:6:mpu925x_set_gyroscope_dlpf	32	static
+../Core/Src/mpu925x_settings.c:255:6:mpu925x_gyroscope_offset_cancellation	24	static
+../Core/Src/mpu925x_settings.c:270:6:mpu925x_get_gyroscope_offset	56	static
+../Core/Src/mpu925x_settings.c:301:6:mpu925x_set_gyroscope_offset	40	static
+../Core/Src/mpu925x_settings.c:323:6:mpu925x_set_magnetometer_measurement_mode	40	static
+../Core/Src/mpu925x_settings.c:369:6:mpu925x_set_magnetometer_bit_mode	40	static

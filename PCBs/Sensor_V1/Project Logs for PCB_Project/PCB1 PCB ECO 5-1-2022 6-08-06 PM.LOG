@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=GND Pin=RB1-2
+Added Member To Class: ClassName=Sheet1 Member=Component IMU H3LIS331DLTR
+Added Room: Name=Sheet1

@@ -1,0 +1,16 @@
+../Core/Src/main.c:84:9:I2C_ReadOneByte	40	static
+../Core/Src/main.c:91:6:I2C_WriteOneByte	32	static
+../Core/Src/main.c:102:9:mpu925x_stm32_i2c_hal_read	48	static
+../Core/Src/main.c:109:9:mpu925x_stm32_i2c_hal_write	48	static
+../Core/Src/main.c:116:6:mpu925x_stm32_hal_delay_ms	16	static
+../Core/Src/main.c:129:5:main	232	static
+../Core/Src/main.c:444:6:SystemClock_Config	88	static
+../Core/Src/main.c:498:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:585:13:MX_I2C2_Init	8	static
+../Core/Src/main.c:619:13:MX_I2C3_Init	8	static
+../Core/Src/main.c:653:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:691:13:MX_TIM3_Init	32	static
+../Core/Src/main.c:736:13:MX_TIM10_Init	8	static
+../Core/Src/main.c:767:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:796:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:810:6:Error_Handler	4	static,ignoring_inline_asm

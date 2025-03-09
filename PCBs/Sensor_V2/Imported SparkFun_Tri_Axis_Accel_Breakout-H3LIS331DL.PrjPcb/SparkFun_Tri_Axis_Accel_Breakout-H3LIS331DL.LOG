@@ -1,0 +1,24 @@
+Importer Log Report
+Project : SparkFun_Tri_Axis_Accel_Breakout-H3LIS331DL.PrjPcb
+
+Section : Analyze Document - C:\Users\mshahsavar\OneDrive - University of Nevada, Reno\Desktop\Projects\IMU\Sensor_V2\SparkFun_Tri_Axis_Accel_Breakout-H3LIS331DL.brd
+    Analyzing data of C:\Users\mshahsavar\OneDrive - University of Nevada, Reno\Desktop\Projects\IMU\Sensor_V2\SparkFun_Tri_Axis_Accel_Breakout-H3LIS331DL.brd
+    Load settings
+    Load layers 145
+    Load board
+    Load Library "SparkFun"
+    Load Packages 2
+    Load Library "SparkFun-Sensors"
+    Load Packages 1
+    Load Library "SparkFun-Connectors"
+    Load Packages 1
+    Load Library "SparkFun-Resistors"
+    Load Packages 1
+    Load Library "SparkFun-Jumpers"
+    Load Packages 3
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 3
+    Load Library "SparkFun-Capacitors"
+    Load Packages 2
+    ERROR: Unhandled typeerrors
+EndSection

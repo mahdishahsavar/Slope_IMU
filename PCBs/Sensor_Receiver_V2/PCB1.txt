@@ -1,0 +1,161 @@
+Board Information Report
+Filename     : C:\Users\mshahsavar\OneDrive - University of Nevada, Reno\Desktop\Projects\IMU\Sensor_Receiver_V2\PCB1.PcbDoc
+Date         : 3/10/2023
+Time         : 10:14:40 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 40.64mmx48.387mm
+    Components on board, 40
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 106
+    Connections routed, 106
+    Connections remaining, 0
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 163, 0, 276, 0, 0, 5, 0
+    Bottom Layer, 0, 0, 0, 38, 0, 0, 1, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Assembly, 0, 0, 0, 132, 33, 0, 0, 0
+    Top 3D Body, 0, 0, 0, 148, 0, 0, 0, 36
+    Top Courtyard, 0, 0, 0, 156, 0, 0, 0, 0
+    Top Component Center, 0, 0, 0, 66, 0, 0, 0, 0
+    Bottom Assembly, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Courtyard, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom 3D Body, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Component Center, 0, 0, 0, 0, 0, 0, 0, 0
+    Multi-Layer, 0, 17, 25, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 8, 0, 0, 125, 80, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 5, 0, 5, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 21
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 25
+count : 1
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 2.198, 1418.274, 72%
+    Bottom Layer, 2.69, 1735.354, 88%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 163, 0
+    0.4mm, 0, 25
+    0.9mm, 15, 0
+    3.1mm, 2, 0
+count : 4
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    0mm, 2
+    0.3mm, 25
+    0.6mm, 15
+count : 3
+
+Mid Layer Annular Ring Size, Count
+    0mm, 2
+    0.3mm, 25
+    0.6mm, 15
+count : 3
+
+Bottom Layer Annular Ring Size, Count
+    0mm, 2
+    0.3mm, 25
+    0.6mm, 15
+count : 3
+
+Pad Solder Mask, Count
+    0mm, 151
+    0.1016mm, 29
+count : 2
+
+Pad Paste Mask, Count
+    0mm, 180
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    0.508mm, 180
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 180
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 180
+count : 1
+
+Pad Relief Entries, Count
+    4, 180
+count : 1
+
+Via Solder Mask, Count
+    0.1016mm, 25
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    0.508mm, 25
+count : 1
+
+Track Width, Count
+    0.05mm, 10
+    0.1mm, 96
+    0.2mm, 521
+    0.254mm, 319
+count : 4
+
+Arc Line Width, Count
+    0.25mm, 8
+count : 1
+
+Arc Radius, Count
+    0.125mm, 8
+count : 1
+
+Arc Degrees, Count
+    360, 8
+count : 1
+
+Text Height, Count
+    0.4mm, 78
+    1mm, 11
+    1.524mm, 24
+count : 3
+
+Text Width, Count
+    0.1mm, 33
+    0.254mm, 80
+count : 2
+
+Net Track Width, Count
+    0.254mm, 36
+count : 1
+
+Net Via Size, Count
+    0.7mm, 36
+count : 1

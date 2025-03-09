@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project.PrjPcb]
+   Generated File[Order2_Legend_Top.gbr]
+   Generated File[Order2_Paste_Top.gbr]
+   Generated File[Order2_Soldermask_Top.gbr]
+   Generated File[Order2_Copper_Signal_Top.gbr]
+   Generated File[Order2_Copper_Signal_Bot.gbr]
+   Generated File[Order2_Soldermask_Bot.gbr]
+   Generated File[Order2_Paste_Bot.gbr]
+   Generated File[Order2_Mechanical_1.gbr]
+   Generated File[Order2_Mechanical_3.gbr]
+   Generated File[Order2_Keep-out.gbr]
+   Generated File[Order2_Profile.gbr]
+   Generated File[Order2.RUL]
+   Generated File[Order2.EXTREP]
+   Generated File[Order2.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 10:37:09 PM On 3/10/2023

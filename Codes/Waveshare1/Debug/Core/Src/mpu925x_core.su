@@ -1,0 +1,11 @@
+../Core/Src/mpu925x_core.c:34:9:mpu925x_init	24	static
+../Core/Src/mpu925x_core.c:61:6:mpu925x_get_all	16	static
+../Core/Src/mpu925x_core.c:73:6:mpu925x_get_all_raw	16	static
+../Core/Src/mpu925x_core.c:86:6:mpu925x_get_acceleration	24	static
+../Core/Src/mpu925x_core.c:100:6:mpu925x_get_acceleration_raw	40	static
+../Core/Src/mpu925x_core.c:116:6:mpu925x_get_rotation	24	static
+../Core/Src/mpu925x_core.c:130:6:mpu925x_get_rotation_raw	40	static
+../Core/Src/mpu925x_core.c:144:6:mpu925x_get_magnetic_field	24	static
+../Core/Src/mpu925x_core.c:158:6:mpu925x_get_magnetic_field_raw	40	static
+../Core/Src/mpu925x_core.c:192:6:mpu925x_get_temperature	16	static
+../Core/Src/mpu925x_core.c:204:6:mpu925x_get_temperature_raw	40	static
